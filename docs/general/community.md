@@ -217,17 +217,18 @@ community members. The application we use most often to interact with the Matrix
 - [Web3 Medium Blog](https://medium.com/@web3)
 - [Polkadot Blog](https://polkadot.network/blog/)
 - [Gavin Wood's Medium Blog](https://medium.com/@gavofyork)
-- [Dotleap.com Newsletter](https://newsletter.dotleap.com/)
 
 ### Newsletters
 
 - [Subscribe to the Polkadot newsletter](https://share.hsforms.com/1LL1CBwiASxC5pJUYZAiDVw4752a) -
   official, infrequent
-- [Dot Leap Newsletter](https://dotleap.substack.com/) - less official, weekly
-- [NFT Review](https://news.nft.review) - Covering the evolution of the NFT ecosystem on Kusama
+- [Dot Leap Newsletter](https://dotleap.substack.com/) (unmaintained) - less official, weekly
 
 ## Ecosystem
 
+- [Polkadot Ecosystem Atlas](https://polkadotecosystem.com/): A comprehensive, curated portal with all the Polkadot ecosystem in one place. An extensive collection of dApps, tools, DAOs, 
+  initiatives, media channels, keynotes, creators, news, guides, and other essential resources—the ultimate gateway to the Polkadot ecosystem. Funded by the Polkadot Treasury and managed by 
+  the Polkadot DAO community.
 - [Polkadot & Kusama Ecosystem Map](https://dotinsights.subwallet.app/) - Comprehensive list of
   projects building in the ecosystem made by SubWallet with support from Parity Technologies.
 - [Polkadot Deep Dive Quarterly Report](https://dotinsights.subwallet.app/polkadot-report-q4-2022-en/) -
